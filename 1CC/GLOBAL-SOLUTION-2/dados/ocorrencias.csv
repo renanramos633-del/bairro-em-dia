@@ -1,0 +1,14 @@
+codigo;categoria;descricao;bairro;local;dia_abertura;status_inicial
+001;Iluminação;Dois postes apagados deixam a passagem escura ao anoitecer.;Vila Ipê;Praça do Coreto;1;Aberta
+002;Acessibilidade;O piso da rampa de travessia está solto.;Vila Ipê;Travessia da feira;1;Aberta
+003;Limpeza;Há resíduos acumulados junto ao portão da horta.;Jardim da Ponte;Horta comunitária;2;Aberta
+004;Conservação;Um banco ao lado da quadra tem tábuas soltas.;Vila Ipê;Quadra comunitária;2;Aberta
+005;Iluminação;A luminária no meio da passarela pisca ao anoitecer.;Jardim da Ponte;Passarela do parque;3;Aberta
+006;Acessibilidade;O piso tátil fica interrompido antes da parada.;Jardim da Ponte;Parada do parque;3;Aberta
+007;Limpeza;Uma lixeira transborda depois da feira.;Vila Ipê;Praça da feira;4;Aberta
+008;Conservação;Uma mesa de jogos tem o tampo solto.;Jardim da Ponte;Largo dos Jogos;4;Aberta
+009;Iluminação;O ponto de luz próximo ao jardim está apagado.;Vila Ipê;Travessa do jardim;5;Aberta
+010;Acessibilidade;Um degrau dificulta o acesso ao espaço de leitura.;Vila Ipê;Entrada da biblioteca;6;Aberta
+011;Limpeza;Folhas acumuladas estreitam a passagem de pedestres.;Jardim da Ponte;Caminho do lago;7;Aberta
+012;Iluminação;Um trecho da pista fica escuro no fim da tarde.;Jardim da Ponte;Pista de caminhada;8;Aberta
+099;;Uma placa está solta na entrada do mirante.;Vila Ipê;Mirante do parque;8;Aberta

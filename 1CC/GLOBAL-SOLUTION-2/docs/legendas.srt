@@ -1,0 +1,47 @@
+1
+00:00:00,000 --> 00:00:08,000
+Na Vila Ipê e no Jardim da Ponte, cada relato recebe um código para que os moradores acompanhem o que aconteceu.
+
+2
+00:00:08,000 --> 00:00:18,000
+As linhas válidas entram na lista de ocorrências. O registro 099 veio sem categoria e fica fora das contagens.
+
+3
+00:00:18,000 --> 00:00:30,000
+A matriz cruza a categoria com a situação atual. Os quatro relatos de iluminação ainda estão abertos ou em análise.
+
+4
+00:00:30,000 --> 00:00:40,000
+O filtro exige que os dois critérios sejam verdadeiros. As ocorrências 009 e 012 são de iluminação e estão abertas.
+
+5
+00:00:40,000 --> 00:00:49,000
+A fila preserva a ordem de cadastro das abertas. Entre as cinco que aguardam triagem, a primeira é a 008.
+
+6
+00:00:49,000 --> 00:01:02,000
+No dia 9, o relato de piso tátil solto recebe o código 013. O cadastro usa um ponto público genérico e começa na situação Aberta.
+
+7
+00:01:02,000 --> 00:01:10,000
+A tentativa de concluir a ocorrência diretamente é recusada. O aviso explica a etapa necessária e o histórico permanece intacto.
+
+8
+00:01:10,000 --> 00:01:23,000
+No dia 10, o início da análise retira 013 da fila. No dia 12, a conclusão gera mais um evento de histórico.
+
+9
+00:01:23,000 --> 00:01:34,000
+A busca usa um dicionário para localizar o código. A ficha reúne o local, a descrição e os três marcos do acompanhamento.
+
+10
+00:01:34,000 --> 00:01:43,000
+A pilha mostra primeiro a mudança mais recente. A ficha de um código permite ler as mesmas mudanças em ordem cronológica.
+
+11
+00:01:43,000 --> 00:01:56,000
+As quatro ocorrências concluídas somam 17 dias de acompanhamento. A média passou de 4,67 para 4,25 dias simulados.
+
+12
+00:01:56,000 --> 00:02:06,000
+Quatro das nove pendências são de iluminação. A contagem ajuda a escolher quais relatos consultar. A urgência real exigiria outros dados.
