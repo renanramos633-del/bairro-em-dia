@@ -7,7 +7,7 @@
 | Equipe | Bairro em Dia · projeto individual |
 | Integrante | Renan Queiroz Ramos |
 | RM | 574959 |
-| Vídeo no YouTube | A preencher com o link da apresentação não listada |
+| Vídeo no YouTube | [Assistir à apresentação de 2min06s (não listada)](https://www.youtube.com/watch?v=CZgu64HeIHo) |
 
 A apresentação acompanha o código 013 do cadastro à conclusão. [Vídeo de demonstração legendado](docs/Bairro-em-Dia-demonstracao.mp4)
 
